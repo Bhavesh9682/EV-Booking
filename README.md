@@ -1,2 +1,2 @@
 # EV-Booking
-[Live Preview](URL)
+[Live Preview](https://bhavesh9682.github.io/EV-Booking/)
